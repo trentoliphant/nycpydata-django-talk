@@ -1,0 +1,22 @@
+WHY DJANGO?
+Easy install and setup
+Built in Authentication
+Admin interface
+Talent Pool
+SPECIFIC ISSUES ENCOUNTERED
+Data governance and controls
+Authentication
+Access Control
+Data validation
+Data sharing
+User provided data
+Data viewing
+Machine Access
+SPECIFIC SOLUTIONS
+Integrating with authentication
+Mocking Integration
+Django view access control
+Output data access (non DB)
+Upload from Excel
+OTHER DJANGO HACKS
+Capturing Django Logging

@@ -1,0 +1,13 @@
+active : trent
+
+trent :
+    STANDARDID : 123456
+    FIRSTNAME : Trent
+    LASTNAME : Oliphant
+    EMAIL : trent.oliphant@continuum.io
+
+bob :
+    STANDARDID : 987654
+    FIRSTNAME : Bob
+    LASTNAME : Rumsfield
+    EMAIL : bob@whitehouse.gov
